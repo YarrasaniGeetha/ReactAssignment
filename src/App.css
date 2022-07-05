@@ -27,6 +27,24 @@
 .App-link {
   color: #61dafb;
 }
+.name{
+  margin-right: 3px;
+}
+.tableList{
+  margin-right: 6px;
+}
+.addbutton:disabled{
+ 
+  font-size:14px;
+}
+.addbutton:enabled{
+background-color: blue;
+color: white;
+}
+.input{
+  margin-top: 11px;
+}
+
 
 @keyframes App-logo-spin {
   from {
